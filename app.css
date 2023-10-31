@@ -15,3 +15,10 @@
     justify-content: center; 
     align-items: baseline;
 }
+
+body {
+    background-image: url(https://wallpapers.com/images/featured/cute-pineapple-b77uxuhaiq75y1rc.jpg);
+    background-size: cover; / Adjust as needed /
+    background-repeat: no-repeat; / Optional /
+    / Additional background properties can be set here /
+  }
