@@ -1,0 +1,17 @@
+.SlotMachine{
+
+    background-color: yellow;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center  ;
+
+}
+
+
+.bottom {
+    display: block;
+    justify-content: center; 
+    align-items: baseline;
+}
